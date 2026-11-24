@@ -1,6 +1,6 @@
 # Hi, I'm Kshitij 👋
 
-4th-year B.Tech student at **IIT Gandhinagar**, dual major in Computer Science and Materials Engineering (graduating 2028). I enjoy problems with a clean algorithmic core, and I like building things end to end, from the logic underneath to a deployed app that people can actually use. Lately that means Linux systems: **eBPF, OS internals and networking**.
+4th-year B.Tech student at **IIT Gandhinagar**, dual major in Materials Engineering and Computer Science (graduating 2028). I enjoy problems with a clean algorithmic core, and I like building things end to end, from the logic underneath to a deployed app that people can actually use. Lately that means Linux systems: **eBPF, OS internals and networking**.
 
 Incoming intern at **Accenture** (summer 2027).
 

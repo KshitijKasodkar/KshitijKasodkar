@@ -21,7 +21,7 @@ Incoming intern at **Accenture** (summer 2027).
 
 ### Tech
 
-C · C++ · Python · JavaScript · SQL · Linux · eBPF (libbpf, BCC) · Node.js · WebSockets · Git · GitHub Actions
+Python · C · C++ · JavaScript · SQL · Linux · eBPF (libbpf, BCC) · Node.js · WebSockets · Git · GitHub Actions
 
 ### Reach me
 
